@@ -19,16 +19,16 @@ El modelo sigue un enfoque **supervisado** con división del dataset en **entren
 - `R²` (Coeficiente de determinación)  
 - `MAE` (Error Absoluto Medio)  
 - `RMSE` (Raíz del Error Cuadrático Medio)
-
-[LinkedIn](https://www.linkedin.com/in/juliana-yiseth-rengifo-rincon-02aa51151)  
-- **Correo:** julianayiseth.rengiforincon@gmail.com  
+  
 
 Se analizaron los **coeficientes de las variables** y se compararon los **valores reales vs predichos**, identificando las características con **mayor impacto económico** en el precio.
-
-
 
 ##  Resultados Destacados
 - Correlación positiva clara entre **área habitable (sqft_living)** y **precio**.  
 - Las propiedades con **vista al agua (waterfront = 1)** tienen precios notablemente más altos.  
 - El modelo predictivo logra **capturar la tendencia general del mercado** con un ajuste satisfactorio.  
 - Los resultados sugieren que **ubicación**, **vista** y **tamaño** son los principales factores que determinan el valor de una pro
+
+##CONTACTO
+[LinkedIn](https://www.linkedin.com/in/juliana-yiseth-rengifo-rincon-02aa51151)  
+**Correo:** julianayiseth.rengiforincon@gmail.com
