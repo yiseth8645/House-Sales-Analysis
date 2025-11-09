@@ -18,7 +18,10 @@ El modelo sigue un enfoque **supervisado** con división del dataset en **entren
 
 - `R²` (Coeficiente de determinación)  
 - `MAE` (Error Absoluto Medio)  
-- `RMSE` (Raíz del Error Cuadrático Medio)  
+- `RMSE` (Raíz del Error Cuadrático Medio)
+
+[LinkedIn](https://www.linkedin.com/in/juliana-yiseth-rengifo-rincon-02aa51151)  
+- **Correo:** julianayiseth.rengiforincon@gmail.com  
 
 Se analizaron los **coeficientes de las variables** y se compararon los **valores reales vs predichos**, identificando las características con **mayor impacto económico** en el precio.
 
